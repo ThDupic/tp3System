@@ -1,2 +1,13 @@
 1)
-    A)
+    A);
+
+    B) Il n y a pas de données partagés entre les Threads.
+    nbthreads est le nombre d URL (18 ici).
+
+    C);
+
+2)
+    A) L ArrayList puisqu elle permet de stocker à une position i,
+    et la classe singe puisqu ils collectent les bananes;
+
+    B)
